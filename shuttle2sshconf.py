@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 import json
-import re
 import argparse
 import sys
 from os.path import expanduser
